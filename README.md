@@ -1,2 +1,1 @@
-# tnkinvestrobot
-Tinkoff Invest Robot
+# Tinkoff Invest Robot
